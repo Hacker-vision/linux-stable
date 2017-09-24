@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no"?> 
+<svg width="2000" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect x="4.13433888983546" width="24.5088511363922" y="150" height="145" style="fill:rgb(0,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(10.1343388898355,154) rotate(90)">acpi_init</text>
+<rect x="30.9283952108687" width="2.04861683318483" y="150" height="145" style="fill:rgb(0,255,0);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(31.9283952108687,154) rotate(90)" font-size="3pt">event_trace_init</text>
+<rect x="33.7742637262268" width="2.50068781265799" y="150" height="145" style="fill:rgb(255,0,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(34.7742637262268,154) rotate(90)" font-size="3pt">chr_dev_init</text>
+<rect x="36.290270209123" width="1.75483877950612" y="150" height="145" style="fill:rgb(255,255,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(37.290270209123,154) rotate(90)" font-size="3pt">init_acpi_pm_clocksource</text>
+<rect x="39.7618212999869" width="1859.70256641407" y="150" height="145" style="fill:rgb(255,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(45.7618212999869,154) rotate(90)">populate_rootfs</text>
+<rect x="1899.49468463964" width="3.16994349461879" y="150" height="145" style="fill:rgb(0,255,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1900.49468463964,154) rotate(90)" font-size="3pt">rapl_pmu_init</text>
+<rect x="1913.10038713029" width="21.7412780466959" y="150" height="145" style="fill:rgb(0,128,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1919.10038713029,154) rotate(90)">ohci_pci_init</text>
+<rect x="1940.96300580416" width="3.7445638359975" y="150" height="145" style="fill:rgb(0,255,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1941.96300580416,154) rotate(90)" font-size="3pt">load_system_certificate_list</text>
+<rect x="1945.27538168365" width="1.91415294998296" y="150" height="145" style="fill:rgb(255,0,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1946.27538168365,154) rotate(90)" font-size="3pt">init_trusted</text>
+<text transform="translate(0,89) rotate(90)">0.02</text>
+<text transform="translate(130,89) rotate(90)">0.4</text>
+<text transform="translate(260,89) rotate(90)">0.78</text>
+<text transform="translate(390,89) rotate(90)">1.16</text>
+<text transform="translate(520,89) rotate(90)">1.54</text>
+<text transform="translate(650,89) rotate(90)">1.92</text>
+<text transform="translate(780,89) rotate(90)">2.31</text>
+<text transform="translate(910,89) rotate(90)">2.69</text>
+<text transform="translate(1040,89) rotate(90)">3.07</text>
+<text transform="translate(1170,89) rotate(90)">3.45</text>
+<text transform="translate(1300,89) rotate(90)">3.83</text>
+<text transform="translate(1430,89) rotate(90)">4.22</text>
+<text transform="translate(1560,89) rotate(90)">4.6</text>
+<text transform="translate(1690,89) rotate(90)">4.98</text>
+<text transform="translate(1820,89) rotate(90)">5.36</text>
+<text transform="translate(1950,89) rotate(90)">5.74</text>
+</svg>
